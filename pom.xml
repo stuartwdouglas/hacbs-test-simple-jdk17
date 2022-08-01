@@ -6,7 +6,7 @@
 
     <groupId>io.github.stuartwdouglas.hacbs-test.simple</groupId>
     <artifactId>simple-jdk17</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.1.2</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
