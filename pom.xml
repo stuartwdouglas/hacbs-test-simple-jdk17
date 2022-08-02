@@ -6,10 +6,7 @@
 
     <groupId>io.github.stuartwdouglas.hacbs-test.simple</groupId>
     <artifactId>simple-jdk17</artifactId>
-<<<<<<< Updated upstream
     <version>0.1.3-SNAPSHOT</version>
-=======
-    <version>0.1.2</version>
     <name>HACBS Test Simple JDK17</name>
     <description>Test data for HACBS JVM build service</description>
     <url>https://github.com/stuartwdouglas/hacbs-test-simple-jdk17</url>
@@ -28,8 +25,6 @@
             <name>Stuart Douglas</name>
         </developer>
     </developers>
-
->>>>>>> Stashed changes
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
